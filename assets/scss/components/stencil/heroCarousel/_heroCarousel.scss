@@ -161,6 +161,12 @@
     }
 }
 
+.stylish {
+    position: relative;
+    margin-left: 250px;
+    @media screen and (max-width: 480px) {width: 50%}
+}
+
 .heroCarousel-action {
     margin: 0;
 
