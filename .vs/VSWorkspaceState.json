@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\js",
+    "\\assets\\js\\test-unit",
+    "\\assets\\js\\test-unit\\theme",
+    "\\assets\\js\\theme",
+    "\\assets\\scss",
+    "\\assets\\scss\\components",
+    "\\meta"
+  ],
+  "SelectedNode": "\\assets\\scss\\theme.scss",
+  "PreviewInSolutionExplorer": false
+}
