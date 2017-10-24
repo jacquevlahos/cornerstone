@@ -2,14 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\js",
-    "\\assets\\js\\theme",
+    "\\assets\\scss",
+    "\\assets\\scss\\layouts",
+    "\\assets\\scss\\layouts\\header",
+    "\\grunt",
     "\\templates",
     "\\templates\\components",
-    "\\templates\\components\\account",
     "\\templates\\components\\amp",
     "\\templates\\components\\amp\\common",
-    "\\templates\\components\\page"
+    "\\templates\\components\\amp\\css",
+    "\\templates\\components\\common"
   ],
   "PreviewInSolutionExplorer": false
 }
