@@ -39,3 +39,60 @@
 .breadcrumb-label {
     text-decoration: none;
 }
+
+
+.whytitle {
+    width: 100%;
+
+    @media screen and (max-width: 1280px) {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 1142px) {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 1040px) {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 768px) {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 480px) {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 320px) {
+        width: 100%;
+    }
+}
+
+.whycontainer {margin-left: 170px;
+
+    @media screen and (max-width: 1280px) {
+        margin-left: 200px;
+    }
+
+    @media screen and (max-width: 1142px) {
+        
+    }
+
+    @media screen and (max-width: 1040px) {
+        margin-left: 0px;
+    }
+
+    @media screen and (max-width: 768px) {
+        
+    }
+
+    @media screen and (max-width: 480px) {
+        margin-left: 0px;
+    }
+
+    @media screen and (max-width: 320px) {
+        margin-left: 0px;
+    }
+}
+
