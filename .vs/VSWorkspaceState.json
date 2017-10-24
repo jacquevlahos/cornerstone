@@ -2,18 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\scss",
-    "\\assets\\scss\\layouts",
-    "\\assets\\scss\\layouts\\blog",
-    "\\assets\\scss\\layouts\\body",
-    "\\assets\\scss\\layouts\\container",
+    "\\assets\\js",
+    "\\assets\\js\\theme",
     "\\templates",
-    "\\templates\\layout",
-    "\\templates\\pages",
-    "\\templates\\pages\\account",
-    "\\templates\\pages\\amp",
-    "\\templates\\pages\\auth"
+    "\\templates\\components",
+    "\\templates\\components\\account",
+    "\\templates\\components\\amp",
+    "\\templates\\components\\amp\\common",
+    "\\templates\\components\\page"
   ],
-  "SelectedNode": "\\templates\\pages\\amp\\category.html",
   "PreviewInSolutionExplorer": false
 }
