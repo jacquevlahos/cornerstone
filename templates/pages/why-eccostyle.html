@@ -1,0 +1,18 @@
+
+{{#partial "hero"}}
+{{#if carousel}}
+
+{{/if}}
+{{{snippet 'home_content'}}}
+{{/partial}}
+
+{{#partial "page"}}
+
+{{#each shipping_messages}}
+{{> components/common/alert-info message}}
+{{/each}}
+
+THIS IS A TEST
+{{/partial}}
+{{> layout/base}}
+
