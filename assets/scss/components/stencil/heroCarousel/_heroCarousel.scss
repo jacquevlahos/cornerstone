@@ -191,7 +191,7 @@
 
 
 .boxes {
-    margin-left: 450px;
+    margin-left: 420px;
 
     @media screen and (max-width: 1280px) {
         margin-left: 250px;
@@ -210,11 +210,11 @@
     }
 
     @media screen and (max-width: 480px) {
-        
+        margin-left: 20px;
     }
 
     @media screen and (max-width: 320px) {
-        
+        margin-left: 20px;
     }
 }
 
@@ -239,11 +239,11 @@
     }
 
     @media screen and (max-width: 480px) {
-        width: 50%;
+        width: 80%;
     }
 
     @media screen and (max-width: 320px) {
-        width: 50%;
+        width: 80%;
     }
 }
 
@@ -268,11 +268,11 @@
     }
 
     @media screen and (max-width: 480px) {
-        width: 50%;
+        width: 80%;
     }
 
     @media screen and (max-width: 320px) {
-        width: 50%;
+        width: 80%;
     }
 }
 
@@ -297,11 +297,11 @@
     }
 
     @media screen and (max-width: 480px) {
-        width: 50%;
+        width: 80%;
     }
 
     @media screen and (max-width: 320px) {
-        width: 50%;
+        width: 80%;
     }
 }
 
