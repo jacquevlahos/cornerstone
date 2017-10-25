@@ -88,6 +88,7 @@
     width: 990px;
     padding-left: 550px;
     text-align: right;
+    margin-bottom: 500px;
 
     @media screen and (max-width: 1280px) {
         width: 87%;
@@ -165,36 +166,51 @@
 }
 
 .forestimg {
-    width: 50%;
-    @media screen and (max-width: 1280px) {
+    width: 32%;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
 
+    @media screen and (max-width: 1280px) {
+        margin-left: 47px;
     }
 
     @media screen and (max-width: 1142px) {
-
+        margin-left: 47px;
+        margin-top: 30px;
     }
 
     @media screen and (max-width: 1090px) {
-
+        margin-left: 17px;
+        margin-top: 30px;
+        width: 40%
     }
 
+    @media screen and (max-width: 900px) {
+        margin-left: 17px;
+        margin-top: 40px;
+        width: 45%
+    }
 
-    @media screen and (max-width: 1040px) {
+    @media screen and (max-width: 850px) {
+        width: 50%;
+        margin-top: 55px;
 
     }
 
     @media screen and (max-width: 768px) {
-
+        margin-top: 190px;
+        padding-left: 0px;
+        margin-left: 0px;
+        padding-bottom: 10px;
+        width: 97%
     }
 
     @media screen and (max-width: 480px) {
-
     }
 
     @media screen and (max-width: 320px) {
-
     }
-}
 }
 
 
