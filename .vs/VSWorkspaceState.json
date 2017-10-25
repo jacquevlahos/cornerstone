@@ -5,13 +5,12 @@
     "\\assets\\scss",
     "\\assets\\scss\\layouts",
     "\\assets\\scss\\layouts\\header",
+    "\\assets\\scss\\vendor",
     "\\grunt",
     "\\templates",
     "\\templates\\components",
-    "\\templates\\components\\amp",
-    "\\templates\\components\\amp\\common",
-    "\\templates\\components\\amp\\css",
-    "\\templates\\components\\common"
+    "\\templates\\components\\amp"
   ],
+  "SelectedNode": "\\assets\\scss\\vendor",
   "PreviewInSolutionExplorer": false
 }
