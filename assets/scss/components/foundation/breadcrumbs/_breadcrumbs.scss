@@ -69,101 +69,69 @@
     }
 }
 
-.whycontainer {margin-left: 120px;
-
-    @media screen and (max-width: 1280px) {
-        margin-left: 200px;
-    }
-
-    @media screen and (max-width: 1142px) {
-        
-    }
-
-    @media screen and (max-width: 1040px) {
-        margin-left: 0px;
-    }
-
-    @media screen and (max-width: 768px) {
-        
-    }
-
-    @media screen and (max-width: 480px) {
-        margin-left: 0px;
-    }
-
-    @media screen and (max-width: 320px) {
-        margin-left: 0px;
-    }
-}
 
 
 .textbarone {
-    align-content: right;
-    position: absolute;
-    color: white;
-    padding-top: 15px;
-    width: 400px;
+    background-color: #BFAF67;
+    text-align: right;
 
     @media screen and (max-width: 1280px) {
-        font-size: 100%;
+        width: 100%;
     }
 
     @media screen and (max-width: 1142px) {
-        font-size: 100%;
+        width: 100%;
     }
 
     @media screen and (max-width: 1040px) {
-        font-size: 100%;
+        width: 100%;
+    }
+
+
+    @media screen and (max-width: 970px) {
+        width: 100%;
     }
 
     @media screen and (max-width: 950px) {
-        font-size: 100%;
+        width: 100%;
     }
 
+    @media screen and (max-width: 900px) {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 850px) {
+        width: 100%;
+    }
+
+
+    @media screen and (max-width: 800px) {
+        width: 100%;
+    }
+
+
     @media screen and (max-width: 768px) {
-        font-size: 95%;
+        width: 100%;
+    }
+
+    @media screen and (max-width: 700px) {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 650px) {
+        width: 100%;
     }
 
     @media screen and (max-width: 480px) {
-        font-size: 80%;
-        margin-left: 30px;
-        text-align: center;
-        width: 300px
+        width: 100%;
     }
 
     @media screen and (max-width: 320px) {
-        font-size: 80%;
-        margin-left: 30px;
-        text-align: center;
-        width: 200px;
+        width: 100%;
     }
 }
 
-.boxoneall {
-    width: 990px;
-    text-align: right;
-    align-content: right;
-    @media screen and (max-width: 1280px) {
-    }
 
-    @media screen and (max-width: 1142px) {
 
-    }
 
-    @media screen and (max-width: 1040px) {
-
-    }
-
-    @media screen and (max-width: 768px) {
- 
-    }
-
-    @media screen and (max-width: 480px) {
-
-    }
-
-    @media screen and (max-width: 320px) {
-
-    }
-}
 
