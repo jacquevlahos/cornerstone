@@ -83,7 +83,7 @@
     color: white;
     background-color: #BFAF67;
     padding-top: 25px;
-    padding-right: 10px;
+    padding-right: 20px;
     padding-bottom: 25px;
     width: 990px;
     padding-left: 550px;
@@ -215,11 +215,16 @@
 .forestimg {
     width: 32%;
     position: absolute;
-    margin-left: 20px;
+    margin-left: 17px;
     margin-top: 20px;
 
     @media screen and (max-width: 1280px) {
         margin-left: 47px;
+        width: 30%;
+    }
+
+    @media screen and (max-width: 1250px) {
+        margin-left: 85px;
         width: 30%;
     }
 
@@ -230,7 +235,8 @@
 
     @media screen and (max-width: 1142px) {
         margin-left: 47px;
-        margin-top: 30px;
+        margin-top: 22px;
+       
     }
 
     @media screen and (max-width: 1090px) {
@@ -265,5 +271,200 @@
 
 
 
+.textbartwo {
+    color: white;
+    background-color: #BFAF67;
+    padding-top: 50px;
+    padding-right: 500px;
+    padding-bottom: 25px;
+    width: 990px;
+    padding-left: 20px;
+    text-align: left;
+    margin-top: 50px;
+
+    @media screen and (max-width: 1280px) {
+        width: 87%;
+        margin-left: 35px;
+
+    }
+
+    @media screen and (max-width: 1142px) {
+        width: 95%;
+ 
+        padding-bottom: 20px;
+  
+    }
+
+    @media screen and (max-width: 1090px) {
+        margin-left: 0px;
+        width: 95%;
+        padding-right: 550px;
+
+    }
+
+    @media screen and (max-width: 1040px) {
+        width: 100%;
+    }
 
 
+    @media screen and (max-width: 970px) {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 950px) {
+        width: 100%;
+        padding-left: 450px;
+    }
+
+    @media screen and (max-width: 900px) {
+        width: 100%;
+        padding-left: 450px;
+    }
+
+    @media screen and (max-width: 850px) {
+        width: 100%;
+        padding-left: 450px;
+    }
+
+
+    @media screen and (max-width: 800px) {
+        width: 100%;
+        height: 80%;
+        padding-left: 470px;
+    }
+
+
+    @media screen and (max-width: 768px) {
+        width: 100%;
+        padding-left: 20px;
+        margin-top: 500px;
+        text-align: center;
+    }
+
+    @media screen and (max-width: 700px) {
+        width: 100%;
+        padding-left: 20px;
+        text-align: center;
+        margin-top: 444px;
+    }
+
+    @media screen and (max-width: 650px) {
+        width: 100%;
+        padding-left: 20px;
+        text-align: center;
+        margin-top: 400px;
+    }
+
+    @media screen and (max-width: 600px) {
+        width: 101%;
+        text-align: center;
+        margin-top: 390px;
+    }
+
+    @media screen and (max-width: 550px) {
+        width: 102%;
+        text-align: center;
+        margin-top: 360px;
+    }
+
+    @media screen and (max-width: 500px) {
+        width: 102%;
+        text-align: center;
+        margin-top: 330px;
+    }
+
+    @media screen and (max-width: 480px) {
+        width: 102%;
+        text-align: center;
+        margin-top: 310px;
+    }
+
+    @media screen and (max-width: 420px) {
+        width: 105%;
+        text-align: center;
+        margin-top: 290px;
+    }
+
+    @media screen and (max-width: 400px) {
+        width: 105%;
+        text-align: center;
+        margin-top: 260px;
+    }
+
+    @media screen and (max-width: 380px) {
+        width: 105%;
+        text-align: center;
+        margin-top: 275px;
+    }
+
+    @media screen and (max-width: 370px) {
+        width: 105%;
+        text-align: center;
+        margin-top: 270px;
+    }
+
+    @media screen and (max-width: 320px) {
+        width: 105%;
+        text-align: center;
+        margin-top: 250px;
+    }
+}
+
+.forestimgtwo {
+    width: 32%;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 70px;
+
+
+
+    @media screen and (max-width: 1280px) {
+        margin-left: 600px;
+        width: 30%;
+    }
+
+    @media screen and (max-width: 1250px) {
+        margin-left: 695px;
+        width: 30%;
+    }
+
+
+    @media screen and (max-width: 1200px) {
+        margin-left: 620px;
+        width: 35%;
+    }
+
+    @media screen and (max-width: 1142px) {
+        margin-left: 650px;
+        margin-top: 70px;
+    }
+
+    @media screen and (max-width: 1090px) {
+        margin-left: 560px;
+        margin-top: 100px;
+        width: 37%
+    }
+
+    @media screen and (max-width: 900px) {
+        margin-left: 550spx;
+        margin-top: 40px;
+        width: 45%
+    }
+
+    @media screen and (max-width: 850px) {
+        width: 45%;
+        margin-top: 65px;
+    }
+
+    @media screen and (max-width: 768px) {
+        padding-left: 0px;
+        margin-left: 0px;
+        width: 97%
+    }
+
+    @media screen and (max-width: 480px) {
+    }
+
+    @media screen and (max-width: 320px) {
+    }
+}
