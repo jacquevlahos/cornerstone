@@ -143,6 +143,14 @@
         text-align: center;
     }
 
+
+    @media screen and (max-width: 750px) {
+        width: 100%;
+        padding-left: 20px;
+        text-align: center;
+        margin-top: 475px;
+    }
+
     @media screen and (max-width: 700px) {
         width: 100%;
         padding-left: 20px;
@@ -154,7 +162,7 @@
         width: 100%;
         padding-left: 20px;
         text-align: center;
-        margin-top: 400px;
+        margin-top: 420px;
     }
 
     @media screen and (max-width: 600px) {
@@ -164,6 +172,12 @@
     }
 
     @media screen and (max-width: 550px) {
+        width: 102%;
+        text-align: center;
+        margin-top: 375px;
+    }
+
+    @media screen and (max-width: 520px) {
         width: 102%;
         text-align: center;
         margin-top: 360px;
@@ -190,20 +204,21 @@
     @media screen and (max-width: 400px) {
         width: 105%;
         text-align: center;
-        margin-top: 260px;
+        margin-top: 270px;
     }
 
     @media screen and (max-width: 380px) {
         width: 105%;
         text-align: center;
-        margin-top: 275px;
+        margin-top: 265px;
     }
 
     @media screen and (max-width: 370px) {
         width: 105%;
         text-align: center;
-        margin-top: 270px;
+        margin-top: 250px;
     }
+
 
     @media screen and (max-width: 320px) {
         width: 105%;
@@ -270,36 +285,30 @@
 }
 
 
-
 .textbartwo {
     color: white;
     background-color: #BFAF67;
-    padding-top: 50px;
-    padding-right: 500px;
+    padding-top: 25px;
+    padding-right: 550px;
     padding-bottom: 25px;
     width: 990px;
     padding-left: 20px;
     text-align: left;
-    margin-top: 50px;
+    margin-top: 20px;
 
     @media screen and (max-width: 1280px) {
         width: 87%;
         margin-left: 35px;
-
     }
 
     @media screen and (max-width: 1142px) {
         width: 95%;
- 
-        padding-bottom: 20px;
-  
+        margin-left: 35px;
     }
 
     @media screen and (max-width: 1090px) {
         margin-left: 0px;
         width: 95%;
-        padding-right: 550px;
-
     }
 
     @media screen and (max-width: 1040px) {
@@ -313,31 +322,31 @@
 
     @media screen and (max-width: 950px) {
         width: 100%;
-        padding-left: 450px;
+        padding-right: 450px;
     }
 
     @media screen and (max-width: 900px) {
         width: 100%;
-        padding-left: 450px;
+        padding-right: 450px;
     }
 
     @media screen and (max-width: 850px) {
         width: 100%;
-        padding-left: 450px;
+        padding-right: 450px;
     }
 
 
     @media screen and (max-width: 800px) {
         width: 100%;
         height: 80%;
-        padding-left: 470px;
+        padding-right: 470px;
     }
 
 
     @media screen and (max-width: 768px) {
         width: 100%;
-        padding-left: 20px;
-        margin-top: 500px;
+        padding-right: 20px;
+        margin-top: 420px;
         text-align: center;
     }
 
@@ -345,120 +354,167 @@
         width: 100%;
         padding-left: 20px;
         text-align: center;
-        margin-top: 444px;
+        margin-top: 370px;
     }
 
     @media screen and (max-width: 650px) {
         width: 100%;
         padding-left: 20px;
         text-align: center;
-        margin-top: 400px;
+        margin-top: 340px;
     }
 
     @media screen and (max-width: 600px) {
         width: 101%;
         text-align: center;
-        margin-top: 390px;
+        margin-top: 340px;
+    }
+
+
+    @media screen and (max-width: 580px) {
+        width: 101%;
+        text-align: center;
+        margin-top: 320px;
     }
 
     @media screen and (max-width: 550px) {
         width: 102%;
         text-align: center;
-        margin-top: 360px;
+        margin-top: 300px;
+    }
+
+    @media screen and (max-width: 517px) {
+        width: 102%;
+        text-align: center;
+        margin-top: 290px;
     }
 
     @media screen and (max-width: 500px) {
         width: 102%;
         text-align: center;
-        margin-top: 330px;
+        margin-top: 270px;
     }
 
     @media screen and (max-width: 480px) {
         width: 102%;
         text-align: center;
-        margin-top: 310px;
+        margin-top: 260px;
+    }
+
+    @media screen and (max-width: 450px) {
+        width: 102%;
+        text-align: center;
+        margin-top: 240px;
     }
 
     @media screen and (max-width: 420px) {
         width: 105%;
         text-align: center;
-        margin-top: 290px;
+        margin-top: 230px;
     }
 
     @media screen and (max-width: 400px) {
         width: 105%;
         text-align: center;
-        margin-top: 260px;
+        margin-top: 220px;
     }
 
     @media screen and (max-width: 380px) {
         width: 105%;
         text-align: center;
-        margin-top: 275px;
+        margin-top: 200px;
     }
 
     @media screen and (max-width: 370px) {
         width: 105%;
         text-align: center;
-        margin-top: 270px;
+        margin-top: 195px;
     }
 
     @media screen and (max-width: 320px) {
         width: 105%;
         text-align: center;
-        margin-top: 250px;
+        margin-top: 190px;
     }
 }
 
 .forestimgtwo {
     width: 32%;
     position: absolute;
-    margin-left: 550px;
-    margin-top: 70px;
-
-
+    margin-left: 560px;
+    margin-top: 40px;
 
     @media screen and (max-width: 1280px) {
         margin-left: 600px;
         width: 30%;
     }
 
-    @media screen and (max-width: 1250px) {
-        margin-left: 695px;
+    @media screen and (max-width: 1260px) {
+        margin-left: 700px;
         width: 30%;
     }
 
+    @media screen and (max-width: 1250px) {
+        margin-left: 670px;
+        width: 30%;
+    }
 
     @media screen and (max-width: 1200px) {
-        margin-left: 620px;
+        margin-left: 595px;
         width: 35%;
     }
 
     @media screen and (max-width: 1142px) {
         margin-left: 650px;
-        margin-top: 70px;
+        margin-top: 42px;
     }
 
     @media screen and (max-width: 1090px) {
-        margin-left: 560px;
-        margin-top: 100px;
-        width: 37%
+        margin-left: 585px;
+        margin-top: 45px;
+        width: 36%
+    }
+
+    @media screen and (max-width: 1055px) {
+        margin-left: 575px;
+        margin-top: 45px;
+        width: 36%
+    }
+
+    @media screen and (max-width: 1000px) {
+        margin-left: 570px;
+        margin-top: 65px;
+        width: 36%
+    }
+
+    @media screen and (max-width: 950px) {
+        margin-left: 550px;
+        margin-top: 55px;
+        width: 36%
+    }
+
+    @media screen and (max-width: 920px) {
+        margin-left: 500px;
+        margin-top: 45px;
+        width: 36%
     }
 
     @media screen and (max-width: 900px) {
-        margin-left: 550spx;
-        margin-top: 40px;
+        margin-left: 445px;
+        margin-top: 60px;
         width: 45%
     }
 
     @media screen and (max-width: 850px) {
         width: 45%;
-        margin-top: 65px;
+        margin-top: 75px;
+        margin-left: 370px;
     }
 
     @media screen and (max-width: 768px) {
         padding-left: 0px;
         margin-left: 0px;
+        margin-top: 0px; 
         width: 97%
     }
 
