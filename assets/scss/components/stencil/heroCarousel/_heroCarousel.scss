@@ -148,6 +148,8 @@
     }
 }
 
+
+
 .heroCarousel-description {
     color: $carousel-description-color;
     font-size: fontSize("tiny");
@@ -164,6 +166,7 @@
 .stylish {
     position: relative;
     margin-left: 190px;
+    margin-top: 100px;
 
     @media screen and (max-width: 320px) {
         width: 70%;
