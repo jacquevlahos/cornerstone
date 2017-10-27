@@ -9,8 +9,10 @@
     "\\grunt",
     "\\templates",
     "\\templates\\components",
-    "\\templates\\components\\amp"
+    "\\templates\\components\\amp",
+    "\\templates\\components\\amp\\common",
+    "\\templates\\components\\amp\\css",
+    "\\templates\\components\\common"
   ],
-  "SelectedNode": "\\assets\\scss\\vendor",
   "PreviewInSolutionExplorer": false
 }

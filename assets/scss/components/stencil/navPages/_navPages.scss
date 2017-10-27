@@ -67,6 +67,7 @@
 // -----------------------------------------------------------------------------
 
 .navPages {
+
     background-color: $navPages-backgroundColor;
     height: 100%;
     overflow-y: auto;
@@ -79,7 +80,7 @@
         font-size: 0; // 1
         overflow-y: visible;
         padding: 0;
-        text-align: center;
+        text-align: right;
     }
 
     ul {
@@ -413,7 +414,7 @@
     }
 
     > .container {
-        padding: 0;
+        padding: 20;
     }
 
     .form {
@@ -441,7 +442,7 @@
         border: container("border");
 
         .dropdown-menu-item {
-            padding: 0;
+            padding: 0px;
 
             // scss-lint:disable NestingDepth
             &:not(:last-child) {

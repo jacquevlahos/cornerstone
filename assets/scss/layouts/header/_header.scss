@@ -18,6 +18,8 @@
     position: fixed;
     top: 0;
     width: 100%;
+    padding-top: 50px;
+    padding-bottom: 10px;
     z-index: zIndex("low");
 
     @include breakpoint("medium") {
@@ -92,37 +94,54 @@
     }
 }
 
+.newlogo {
+    position: relative;
+    margin-top: 80px;
+    margin-bottom: 0px;
+
+}
 .header-logo-image {
     max-height: remCalc($header-height) - $header-logo-marginVertical * 2;
     width: 30%;
     padding-left: 20px;
-
-    @include breakpoint("medium") {
-        max-height: none;
-    }
+    margin-left: 90px;
 
     @media screen and (max-width: 1280px) {
+        width: 30%;
+        margin-left: 40px;
     }
 
     @media screen and (max-width: 1142px) {
+        width: 35%
     }
 
     @media screen and (max-width: 1040px) {
-        width: 17%;
+        width: 35%;
     }
 
     @media screen and (max-width: 768px) {
-        width: 17%;
+        margin: 0px;
+        padding: 0px;
+        width: 30%;
         align-content: center;
     }
 
     @media screen and (max-width: 480px) {
+        margin: 0px;
+        padding: 0px;
         align-content: center;
+        width: 30%;
     }
 
     @media screen and (max-width: 320px) {
-        height: 30%;
+        margin: 0px;
+        padding: 0px;
+        width: 30%;
         align-content: center;
+    }
+
+    @include breakpoint("medium") {
+        max-height: none;
     }
 }
 
